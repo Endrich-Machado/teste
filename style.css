@@ -1,0 +1,14 @@
+.main{
+    display: flex;
+    justify-items: space-around;
+}
+.container{
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+}
+.tam{
+    width: 100px;
+    height: 2000px;
+    background-color: #ccc;
+}
